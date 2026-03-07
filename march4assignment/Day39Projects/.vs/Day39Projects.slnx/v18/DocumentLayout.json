@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\productrepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\productrepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Migrations\\20260303044306_something.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeFirstEFDemo\\Migrations\\20260303044306_something.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\migrations\\20260302055502_somedataseeded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\migrations\\20260302055502_somedataseeded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\migrations\\20260302053128_added 3more tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\migrations\\20260302053128_added 3more tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\migrations\\20260302043738_dbcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\migrations\\20260302043738_dbcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|d:\\capgeminichandigarh\\day40\\day39projects\\codefirstefdemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03F5C6B-2DCE-9671-4BCA-E7B72A325F6F}|CodeFirstEFDemo\\CodeFirstEFDemo.csproj|solutionrelative:codefirstefdemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository2.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\ProductRepository2.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\ProductRepository2.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\ProductRepository2.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\ProductRepository2.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:38:58.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260303044306_something.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Migrations\\20260303044306_something.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Migrations\\20260303044306_something.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Migrations\\20260303044306_something.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Migrations\\20260303044306_something.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T04:43:06.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\ProductRepository.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\ProductRepository.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\ProductRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T04:12:36.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\IProductRepository.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\IProductRepository.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\IProductRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T04:11:00.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Models\\Student.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:18:56.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Models\\Author.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Author.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:18:28.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Program.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Program.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:09:01.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:27:41.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260302053128_added 3more tables.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Migrations\\20260302053128_added 3more tables.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Migrations\\20260302053128_added 3more tables.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Migrations\\20260302053128_added 3more tables.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Migrations\\20260302053128_added 3more tables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:31:28.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Models\\Course.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Course.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Models\\Course.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:18:13.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260302055502_somedataseeded.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Migrations\\20260302055502_somedataseeded.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Migrations\\20260302055502_somedataseeded.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Migrations\\20260302055502_somedataseeded.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Migrations\\20260302055502_somedataseeded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:55:03.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Models\\Product.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Product.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:23:31.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260302043738_dbcreated.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Migrations\\20260302043738_dbcreated.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Migrations\\20260302043738_dbcreated.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Migrations\\20260302043738_dbcreated.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Migrations\\20260302043738_dbcreated.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:37:38.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CodeFirstEFDemo\\Models\\Category.cs",
+              "ToolTip": "D:\\CapgeminiChandigarh\\Day40\\Day39Projects\\CodeFirstEFDemo\\Models\\Category.cs",
+              "RelativeToolTip": "CodeFirstEFDemo\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T04:21:12.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
